@@ -1,1 +1,1 @@
-export const DB_Name = "mytube"
+export const DB_Name = "quickcart"
